@@ -1,3 +1,8 @@
+# project: BMI2003_SP_18 HW_3 (Biomedical Software Engineering II)
+# filename: test_related_person.py
+# time: 201802
+# modifier: HsiuPing Lin
+
 """ Test RelatedPerson
 
 :Author: Arthur Goldberg <Arthur.Goldberg@mssm.edu>
